@@ -145,10 +145,6 @@
                 <li class="list-inline-item">
                   <i class="fab fa-node"></i>
                 </li>
-
-                <li class="list-inline-item">
-                  <i class="fab fa-npm"></i>
-                </li>
               </ul>
             </div>
             <div class="col-md-6">
@@ -163,17 +159,13 @@
                 <li class="list-inline-item">
                   <i class="fab fa-wordpress"></i>
                 </li>
-
-                <li class="list-inline-item">
-                  <i class="fab fa-npm"></i>
-                </li>
               </ul>
             </div>
           </div>
         </div>
       </section>
 
-      <!-- Skills -->
+      <!-- Education -->
       <section>
         <div class="container shadow p-3 mb-5 bg-white rounded">
           <div class="row">
@@ -201,12 +193,14 @@
             <div class="col-md-6 col-lg-5">
               <div class="card text-center">
                 <div class="card-body">
-                  <h3 class="card-title">TRAINEE</h3>
+                  <h3 class="card-title">COMPUTER TECHNICIAN</h3>
                   <h6 class="card-subtitle mb-2 text-muted">
-                    Faculdade Princesa do Oeste
+                    EEEP Manoel Mano
                   </h6>
                   <p class="card-text text-center">
-                    <small class="text-muted">January 2019 - Present</small>
+                    <small class="text-muted"
+                      >January 2011 - December 2013</small
+                    >
                   </p>
                   <!-- <footer class="blockquote-footer">
                     Crateús, Brazil
